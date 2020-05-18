@@ -1,0 +1,2 @@
+g++  -Wall -shared -std=c++11 -fPIC -L. -lcutest -I/root/pybind11/include `cd /root/pybind11 && python3 -mpybind11 --includes` test3.cpp -o example`python3.6-config --extension-suffix`
+
