@@ -1,0 +1,1 @@
+g++   CMakeFiles/array_sum.dir/main.cu.o CMakeFiles/array_sum.dir/cmake_device_link.o -o array_sum  -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

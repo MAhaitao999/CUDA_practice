@@ -1,0 +1,1 @@
+/usr/local/cuda/bin/nvcc    -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/array_sum.dir/main.cu.o -o CMakeFiles/array_sum.dir/cmake_device_link.o 

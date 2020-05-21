@@ -1,0 +1,3 @@
+/workspace/CUDA_practice/matrix_multi/build/CMakeFiles/rebuild_cache.dir
+/workspace/CUDA_practice/matrix_multi/build/CMakeFiles/matrix_multi_library.dir
+/workspace/CUDA_practice/matrix_multi/build/CMakeFiles/edit_cache.dir

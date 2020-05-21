@@ -1,0 +1,1 @@
+g++   CMakeFiles/lab0.dir/main.cu.o CMakeFiles/lab0.dir/cmake_device_link.o -o lab0  -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl
